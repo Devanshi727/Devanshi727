@@ -39,3 +39,14 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/devanshi-rupareliya-130006315">
+    <img src="https://img.shields.io/badge/LinkedIn-Devanshi-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="devanshiruparelia401@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
